@@ -1,19 +1,19 @@
 ---
-title: "Public Reason After Conflict"
-description: "Notes on disagreement, repair, and the patient civic habit of giving reasons in public."
+title: "Sababaynta Guud Colaadda Kadib"
+description: "Qoraallo ku saabsan khilaaf, dib-u-dhis, iyo caadada bulsho ee samirka leh ee sabab loo bixiyo meel fagaare ah."
 pubDate: 2026-05-05
-author: "Somali Philosophy Editors"
-topic: "Politics and Society"
-language: "English"
-readingTime: "7 min read"
+author: "Tifaftirayaasha Qudhac Philosophy"
+topic: "Bulsho"
+language: "Somali"
+readingTime: "7 daqiiqo"
 ---
 
-After conflict, public speech is easily pulled toward accusation or silence. Reason offers another path: the discipline of saying why, listening for what is true, and accepting that repair is slower than victory.
+Colaad kadib, hadalka guud si fudud ayuu ugu jiitamaa eedayn ama aamusnaan. Sababayntu waxay bixisaa waddo kale: edbinta ah in la yiraahdo sababta, in la dhageysto waxa runta ah, iyo in la aqbalo in dib-u-dhisku ka gaabis badan yahay guusha.
 
-A society becomes more philosophical when disagreement is not treated as betrayal, and when people learn to argue without trying to destroy the conditions of living together.
+Bulsho waxay noqotaa mid falsafad badan marka khilaafka aan loo arag khiyaano, iyo marka dadku bartaan in ay doodaan iyaga oo aan burburin shuruudaha wada-noolaanshaha.
 
-## The Work of Reasons
+## Shaqada Sababaha
 
-Reasons do not remove pain. They do not make history simple.
+Sababuhu xanuunka ma tirtiraan. Taariikhdana ma fududeeyaan.
 
-But they create a shared space where people can test claims, revise positions, and resist the temptation to turn every disagreement into an enemy.
+Laakiin waxay abuuraan meel la wadaago oo dadku ku tijaabiyaan sheegashooyin, ku saxaan mowqifyo, kuna iska caabiyaan damaca ah in khilaaf walba loo rogo cadow.

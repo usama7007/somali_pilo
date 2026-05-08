@@ -1,21 +1,21 @@
 ---
-title: "Honor, Shame, and Moral Courage"
-description: "How communal life can form conscience, and where courage begins when approval becomes too powerful."
+title: "Sharaf, Xishood, iyo Geesinimo Akhlaaqeed"
+description: "Sida nolosha bulshadu u dhisto damiirka, iyo halka geesinimadu ka bilaabato marka oggolaanshuhu aad u xoog bato."
 pubDate: 2026-05-07
-author: "Somali Philosophy Editors"
-topic: "Ethics"
-language: "English"
-readingTime: "6 min read"
+author: "Tifaftirayaasha Qudhac Philosophy"
+topic: "Akhlaaq"
+language: "Somali"
+readingTime: "6 daqiiqo"
 ---
 
-Honor can protect a community from selfishness. Shame can remind a person that actions echo beyond the individual. Yet both can become dangerous when they replace conscience with fear.
+Sharafku wuxuu bulshada ka ilaalin karaa danaysi. Xishoodkuna qofka wuxuu xusuusin karaa in ficilladiisu ka gudbaan naftiisa. Haddana labaduba waxay khatar noqdaan marka ay damiirka ku beddelaan cabsi.
 
-Moral courage begins when a person can still hear the community, but is not owned by its applause.
+Geesinimada akhlaaqeed waxay bilaabataa marka qofku weli maqli karo bulshada, balse uusan lahaansho ugu jirin sacabbadeeda.
 
-The ethical question is not whether reputation matters. It is whether reputation serves truth.
+Su'aasha akhlaaqeed ma aha in sumcaddu muhiim tahay iyo in kale. Su'aashu waa in sumcaddu u adeegto runta.
 
-## When Approval Becomes Too Strong
+## Marka Oggolaanshuhu Aad U Xoog Bato
 
-A community can train people into patience, generosity, and self-control. It can also punish honest speech too quickly.
+Bulsho waxay dadka bari kartaa samir, deeqsinimo, iyo is-xakamayn. Sidoo kale waxay si degdeg ah u ciqaabi kartaa hadal daacad ah.
 
-The person of conscience has to learn the difference between being corrected and being controlled.
+Qofka damiirka leh waa inuu barto farqiga u dhexeeya in la saxo iyo in la xukumo.

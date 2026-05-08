@@ -1,19 +1,19 @@
 ---
-title: "Language as a House of Memory"
-description: "Somali words do more than describe experience; they preserve relations, landscapes, and obligations."
+title: "Afku Waa Hoyga Xusuusta"
+description: "Erayada Soomaaligu ma sharxaan waayo-aragnimo oo keliya; waxay ilaaliyaan xiriirro, dhul, iyo waajibaad."
 pubDate: 2026-05-06
-author: "Somali Philosophy Editors"
-topic: "Language and Meaning"
-language: "English"
-readingTime: "5 min read"
+author: "Tifaftirayaasha Qudhac Philosophy"
+topic: "Af iyo Macne"
+language: "Somali"
+readingTime: "5 daqiiqo"
 ---
 
-Language is not only a tool for communication. It is a living archive. In Somali, a phrase can carry traces of pastoral life, religious learning, kinship, migration, humor, and grief.
+Afku ma aha qalab isgaarsiin oo keliya. Waa kayd nool. Af-Soomaaliga, weedh keliya waxay qaadi kartaa raadad nolol reer-guuraa, barasho diimeed, qaraabo, socdaal, kaftan, iyo murugo.
 
-To think philosophically through language is to ask what a word has taught us to notice, and what it may have taught us to ignore.
+In afka falsafad ahaan looga fikiro waa in la weydiiyo waxa eraygu na baray inaan aragno, iyo waxa laga yaabo inuu na baray inaan iska indha tirno.
 
-## Words Notice Things
+## Erayadu Wax Bay Arkaan
 
-Every language makes some meanings easy to reach. It also makes other meanings require work.
+Af walba wuxuu fududeeyaa in macnayaal qaar la gaaro. Sidoo kale wuxuu ka dhigaa macnayaal kale kuwo dadaal u baahan.
 
-That is why translation is never only technical. It is philosophical, because it asks what must be carried across and what cannot travel unchanged.
+Taasi waa sababta turjumaaddu aysan marnaba farsamo keliya u ahayn. Waa falsafad, sababtoo ah waxay weydiisaa waxa la gudbin karo iyo waxa aan sidoodii ku safri karin.

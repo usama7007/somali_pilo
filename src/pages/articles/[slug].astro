@@ -15,17 +15,17 @@ const { article } = Astro.props;
 const { Content } = await render(article);
 ---
 
-<BaseLayout title={`${article.data.title} - Somali Philosophy`} description={article.data.description}>
+<BaseLayout title={`${article.data.title} - Qudhac Philosophy`} description={article.data.description}>
   <main id="top">
     <article class="article-page">
-      <a class="read-link" href="/articles/">All articles</a>
+      <a class="read-link" href="/articles/">Dhammaan maqaallada</a>
       <p class="article-meta">{article.data.topic} - {article.data.readingTime} - {article.data.language}</p>
       <h1>{article.data.title}</h1>
       <p class="article-description">{article.data.description}</p>
       <div class="article-byline">
         <span>{article.data.author}</span>
         <time datetime={article.data.pubDate.toISOString()}>
-          {article.data.pubDate.toLocaleDateString("en", { year: "numeric", month: "long", day: "numeric" })}
+          {article.data.pubDate.toLocaleDateString("so", { year: "numeric", month: "long", day: "numeric" })}
         </time>
       </div>
       <div class="article-body">

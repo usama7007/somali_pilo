@@ -1,21 +1,21 @@
 ---
-title: "What Makes a Thought Somali?"
-description: "A first reflection on place, memory, language, and the danger of reducing philosophy to imported names."
+title: "Maxaa Fikir Ka Dhiga Mid Soomaali Ah?"
+description: "Milicsi kooban oo ku saabsan meel, xusuus, af, iyo khatarta ah in falsafadda lagu koobo magacyo dibadda laga keenay."
 pubDate: 2026-05-08
-author: "Somali Philosophy Editors"
-topic: "Somali Thought"
-language: "English"
-readingTime: "8 min read"
+author: "Tifaftirayaasha Qudhac Philosophy"
+topic: "Fikir Soomaali"
+language: "Somali"
+readingTime: "8 daqiiqo"
 ---
 
-A thought becomes Somali not because it is sealed away from the world, but because it grows from a recognizable life: a language, a history, a landscape, a set of duties, and a way of asking what a human being owes to others.
+Fikirku wuxuu noqdaa Soomaali ma aha sababtoo ah dunida ayuu ka go'an yahay, balse sababtoo ah wuxuu ka baxaa nolol la garan karo: af, taariikh, dhul, waajibaad, iyo hab lagu weydiiyo waxa qof bani'aadam ahi dadka kale ku leeyahay.
 
-Philosophy is sometimes introduced as if it belongs only to distant books. But every society carries questions about truth, justice, courage, death, beauty, and the good life.
+Falsafadda mararka qaar waxaa loo soo bandhigaa sidii wax ku jira buugaag fog oo keliya. Laakiin bulsho walba waxay sidataa su'aalo ku saabsan run, caddaalad, geesinimo, geeri, qurux, iyo nolol wanaagsan.
 
-The work of this journal is to treat those questions with seriousness, whether they appear in poetry, proverbs, religion, political memory, family life, or formal argument.
+Shaqada joornaalkan waa in su'aalahaas loo qaato si dhab ah, ha ka soo muuqdaan gabay, maahmaah, diin, xusuus siyaasadeed, nolol qoys, ama dood rasmi ah.
 
-## A Local Beginning
+## Bilow Maxalli Ah
 
-To think locally is not to think narrowly. It is to begin from the ground beneath your feet, then ask how that ground changes the questions you inherit from the world.
+In meel gaar ah laga fikiro ma aha in fikirka la ciriiriyo. Waa in laga bilaabo dhulka cagahaaga hoostiisa yaalla, kadibna la weydiiyo sida dhulkaasi u beddelo su'aalaha aad dunida ka dhaxashay.
 
-Somali philosophy can be open to Plato, Ibn Rushd, Fanon, Arendt, and contemporary African thought while still refusing to become a copy of someone else's intellectual weather.
+Falsafadda Soomaalidu waxay u furnaan kartaa Plato, Ibnu Rushd, Fanon, Arendt, iyo fikirka Afrika ee maanta, iyada oo weli diidaysa in ay noqoto nuqul ka mid ah jawi fikir oo qof kale leeyahay.

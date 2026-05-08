@@ -12,22 +12,22 @@ const latestArticles = articles.slice(0, 6);
   <main id="top">
     <section class="hero" aria-labelledby="hero-title">
       <div class="hero-copy">
-        <p class="kicker">A quiet journal for sharp thought</p>
-        <h1 id="hero-title">Somali philosophy, written for readers who like depth without noise.</h1>
+        <p class="kicker">Joornaal deggan oo fikir qoto dheer leh</p>
+        <h1 id="hero-title">Qudhac Philosophy</h1>
         <p>
-          Essays on ethics, language, religion, politics, culture, and the long work of thinking clearly
-          from Somali life and the wider philosophical tradition.
+          Xididdo qoto dheer, una furan waxa cusub. Maqaallo falsafadeed iyo qoraallo ka baxa
+          nolosha Soomaalida iyo dhaqanka falsafadeed ee dunida.
         </p>
-        <div class="hero-actions" aria-label="Main actions">
-          <a class="button primary" href="/articles/">Read articles</a>
-          <a class="button secondary" href="#submit">Send an essay</a>
+        <div class="hero-actions" aria-label="Falalka muhiimka ah">
+          <a class="button primary" href="/articles/">Akhri maqaallada</a>
+          <a class="button secondary" href="#submit">Dir maqaal</a>
         </div>
       </div>
-      <aside class="editor-note" aria-label="Editorial note">
-        <img src="/assets-reading-room.svg" alt="Open books and notes in a quiet reading room">
-        <span>Editor's note</span>
+      <aside class="editor-note" aria-label="Qoraalka tifaftiraha">
+        <img src="/assets-reading-room.svg" alt="Buugaag iyo qoraallo miis akhris saaran">
+        <span>Qoraalka tifaftiraha</span>
         <p>
-          Start small. Publish carefully. Let each article feel like a room where an idea can breathe.
+          Waxaan daabacnaa qoraallo si taxaddar leh loo diyaariyey, si fikrad walba u hesho meel ay ku neefsato.
         </p>
       </aside>
     </section>
@@ -35,10 +35,10 @@ const latestArticles = articles.slice(0, 6);
     <section class="section articles-section" id="articles" aria-labelledby="articles-title">
       <div class="section-heading">
         <div>
-          <p class="kicker">Latest essays</p>
-          <h2 id="articles-title">Articles</h2>
+          <p class="kicker">Qoraalladii ugu dambeeyay</p>
+          <h2 id="articles-title">Maqaallo</h2>
         </div>
-        <a class="read-link" href="/articles/">View all articles</a>
+        <a class="read-link" href="/articles/">Eeg dhammaan maqaallada</a>
       </div>
 
       <div class="article-list">
@@ -49,7 +49,7 @@ const latestArticles = articles.slice(0, 6);
               <h3><a href={`/articles/${article.slug}/`}>{article.data.title}</a></h3>
               <p>{article.data.description}</p>
             </div>
-            <a class="read-link" href={`/articles/${article.slug}/`}>Read</a>
+            <a class="read-link" href={`/articles/${article.slug}/`}>Akhri</a>
           </article>
         ))}
       </div>
@@ -57,15 +57,15 @@ const latestArticles = articles.slice(0, 6);
 
     <section class="submit-section" id="submit" aria-labelledby="submit-title">
       <div>
-        <p class="kicker">Contribute</p>
-        <h2 id="submit-title">Send an essay, reflection, or translation proposal.</h2>
+        <p class="kicker">Ka qayb qaado</p>
+        <h2 id="submit-title">Soo dir maqaal, milicsi, ama soo-jeedin turjumaad.</h2>
       </div>
       <p>
-        For now, submissions can be handled by email. Replace the address below with your real contact email
-        when you are ready to publish.
+        Qoraallada waxaad noogu soo diri kartaa email. Waxaan akhrinnaa, tifaftirnaa, kadibna annaga ayaa
+        go'aansanna waxa la daabacayo.
       </p>
-      <a class="button primary" href="mailto:editor@example.com?subject=Somali%20Philosophy%20Submission">
-        editor@example.com
+      <a class="button primary" href="mailto:somali.philo@gmail.com?subject=Qudhac%20Philosophy%20Submission">
+        somali.philo@gmail.com
       </a>
     </section>
   </main>

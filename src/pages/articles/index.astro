@@ -6,17 +6,17 @@ const articles = (await getCollection("articles"))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
-<BaseLayout title="Articles - Somali Philosophy">
+<BaseLayout title="Maqaallo - Qudhac Philosophy">
   <main id="top">
     <section class="page-hero">
-      <p class="kicker">Archive</p>
-      <h1>Articles</h1>
+      <p class="kicker">Kaydka qoraallada</p>
+      <h1>Maqaallo</h1>
       <p>
-        Every essay is stored as its own Markdown file, then Astro turns it into a fast static page.
+        Qoraal walba wuxuu leeyahay bog u gaar ah, si akhrisku u noqdo degdeg, nadiif ah, oo fudud.
       </p>
     </section>
 
-    <section class="section archive-layout" aria-label="Article archive">
+    <section class="section archive-layout" aria-label="Kaydka maqaallada">
       <div class="archive-list">
         {articles.map((article) => (
           <article class="archive-item">

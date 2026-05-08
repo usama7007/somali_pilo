@@ -2,37 +2,40 @@
 import "../styles/global.css";
 
 const {
-  title = "Somali Philosophy",
-  description = "A light digital journal for essays on Somali thought, ethics, language, society, and the wider philosophical tradition."
+  title = "Qudhac Philosophy",
+  description = "Joornaal fudud oo loogu talagalay maqaallo falsafadeed oo ka baxa nolosha Soomaalida iyo dhaqanka falsafadeed ee dunida."
 } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="so">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content={description}>
+    <link rel="icon" href="/logo3-small.png" type="image/png">
     <title>{title}</title>
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href="/" aria-label="Somali Philosophy home">
-        <span class="brand-mark">SP</span>
+      <a class="brand" href="/" aria-label="Bogga hore ee Qudhac Philosophy">
+        <span class="brand-mark">
+          <img src="/logo3-small.png" alt="">
+        </span>
         <span>
-          <strong>Somali Philosophy</strong>
-          <small>Falsafad, fikir, iyo nolol</small>
+          <strong>Qudhac Philosophy</strong>
+          <small>Xididdo qoto dheer, una furan waxa cusub</small>
         </span>
       </a>
-      <nav aria-label="Primary navigation">
-        <a href="/articles/">Articles</a>
-        <a href="/#submit">Submit</a>
+      <nav aria-label="Socodka bogga">
+        <a href="/articles/">Maqaallo</a>
+        <a href="/#submit">Dir maqaal</a>
       </nav>
     </header>
     <slot />
     <footer class="site-footer">
-      <p>Somali Philosophy - A light static journal for careful thought.</p>
-      <a href="#top">Back to top</a>
+      <p>Qudhac Philosophy - joornaal fudud oo loogu talagalay fikir taxaddar leh.</p>
+      <a href="#top">Kor ugu noqo</a>
     </footer>
   </body>
 </html>

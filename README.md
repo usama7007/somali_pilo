@@ -1,4 +1,4 @@
-# Somali Philosophy
+# Qudhac Philosophy
 
 A fast Astro website for publishing Somali philosophy essays.
 
@@ -42,7 +42,7 @@ description: "A short summary shown on article lists."
 pubDate: 2026-05-08
 author: "Author Name"
 topic: "Ethics"
-language: "English"
+language: "Somali"
 readingTime: "9 min read"
 ---
 
@@ -59,7 +59,7 @@ If the build succeeds, publish the site again through your hosting service.
 
 ## Submissions From Other People
 
-The submit button is only an email link. A reader can send you an essay by email, but it will not appear on the website automatically.
+The submit button is only an email link to `somali.philo@gmail.com`. A reader can send you an essay by email, but it will not appear on the website automatically.
 
 The safe workflow is:
 
