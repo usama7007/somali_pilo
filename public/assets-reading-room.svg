@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="640" viewBox="0 0 900 640" role="img" aria-labelledby="title desc">
+  <title id="title">Reading room table with books and notes</title>
+  <desc id="desc">A quiet editorial illustration showing open books, notes, and sunlight on a table.</desc>
+  <rect width="900" height="640" fill="#dbe8ef"/>
+  <path d="M0 438h900v202H0z" fill="#f8f7f1"/>
+  <path d="M95 70h710v388H95z" fill="#ffffff"/>
+  <path d="M95 70h710v46H95z" fill="#2e6f5e"/>
+  <circle cx="150" cy="93" r="9" fill="#f8f7f1"/>
+  <circle cx="182" cy="93" r="9" fill="#f8f7f1"/>
+  <circle cx="214" cy="93" r="9" fill="#f8f7f1"/>
+  <path d="M166 174h236v166H166z" fill="#f8f7f1" stroke="#d9ded8" stroke-width="3"/>
+  <path d="M402 174h236v166H402z" fill="#f8f7f1" stroke="#d9ded8" stroke-width="3"/>
+  <path d="M402 174c-38 32-38 134 0 166" fill="none" stroke="#c39135" stroke-width="4"/>
+  <path d="M222 220h118M222 256h124M222 292h96M464 220h116M464 256h128M464 292h86" stroke="#5e6a62" stroke-width="8" stroke-linecap="round"/>
+  <path d="M182 398h242" stroke="#17201b" stroke-width="18" stroke-linecap="round"/>
+  <path d="M502 398h210" stroke="#a84f35" stroke-width="18" stroke-linecap="round"/>
+  <path d="M500 436l88-76 72 76z" fill="#c39135"/>
+  <path d="M170 466h560v62H170z" fill="#17201b"/>
+  <path d="M232 496h118M394 496h98M536 496h132" stroke="#f8f7f1" stroke-width="9" stroke-linecap="round"/>
+</svg>

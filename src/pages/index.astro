@@ -1,0 +1,72 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const articles = (await getCollection("articles"))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const latestArticles = articles.slice(0, 6);
+---
+
+<BaseLayout>
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="kicker">A quiet journal for sharp thought</p>
+        <h1 id="hero-title">Somali philosophy, written for readers who like depth without noise.</h1>
+        <p>
+          Essays on ethics, language, religion, politics, culture, and the long work of thinking clearly
+          from Somali life and the wider philosophical tradition.
+        </p>
+        <div class="hero-actions" aria-label="Main actions">
+          <a class="button primary" href="/articles/">Read articles</a>
+          <a class="button secondary" href="#submit">Send an essay</a>
+        </div>
+      </div>
+      <aside class="editor-note" aria-label="Editorial note">
+        <img src="/assets-reading-room.svg" alt="Open books and notes in a quiet reading room">
+        <span>Editor's note</span>
+        <p>
+          Start small. Publish carefully. Let each article feel like a room where an idea can breathe.
+        </p>
+      </aside>
+    </section>
+
+    <section class="section articles-section" id="articles" aria-labelledby="articles-title">
+      <div class="section-heading">
+        <div>
+          <p class="kicker">Latest essays</p>
+          <h2 id="articles-title">Articles</h2>
+        </div>
+        <a class="read-link" href="/articles/">View all articles</a>
+      </div>
+
+      <div class="article-list">
+        {latestArticles.map((article, index) => (
+          <article class:list={["article-card", { featured: index === 0 }]}>
+            <div>
+              <p class="article-meta">{article.data.topic} - {article.data.readingTime} - {article.data.language}</p>
+              <h3><a href={`/articles/${article.slug}/`}>{article.data.title}</a></h3>
+              <p>{article.data.description}</p>
+            </div>
+            <a class="read-link" href={`/articles/${article.slug}/`}>Read</a>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="submit-section" id="submit" aria-labelledby="submit-title">
+      <div>
+        <p class="kicker">Contribute</p>
+        <h2 id="submit-title">Send an essay, reflection, or translation proposal.</h2>
+      </div>
+      <p>
+        For now, submissions can be handled by email. Replace the address below with your real contact email
+        when you are ready to publish.
+      </p>
+      <a class="button primary" href="mailto:editor@example.com?subject=Somali%20Philosophy%20Submission">
+        editor@example.com
+      </a>
+    </section>
+  </main>
+</BaseLayout>
