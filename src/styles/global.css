@@ -376,6 +376,21 @@ h1 {
   margin: 1.2em 0;
 }
 
+.article-body img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 1.8em auto;
+  border: 1px solid var(--line);
+  object-fit: contain;
+}
+
+.article-body picture {
+  display: block;
+  max-width: 100%;
+}
+
 .site-footer {
   display: flex;
   justify-content: space-between;
