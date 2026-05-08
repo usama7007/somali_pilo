@@ -9,6 +9,8 @@ readingTime: "7 daqiiqo"
 ---
 ## Immanuel Kant iyo Xuduudaha Aqoonta
 
+![Immanuel Kant](./Kant2.jpg)
+
 Qarnigii 18-aad, dunida falsafaddu waxay ku jirtay xaalad jahawareer ah oo u dhexaysay laba kooxood oo aad u kala fog. Kooxda “Caqli-ku-tiirsaneyaasha” (Rationalists) oo aaminsanaa in caqligu keligiis keeni karo aqoon saafi ah, iyo kooxda “Dareen-ku-tiirsaneyaasha” (Empiricists) oo ku doodayay in wax walba laga barto khibradda iyo dareenka shanta ah. Immanuel Kant, oo ahaa ninkii soo afjaray dooddaas, wuxuu yimid isaga oo wata fikrad gilgishay aasaaskii aqoonta, taas oo uu ugu yeeray “Kacaanka Copernicus ee Falsafadda.”
 
 Sida Copernicus uu u beddelay fahamkii ahaa in qorraxdu ku wareegto dhulka, una caddeeyay in dhulku ku wareego qorraxda, ayuu Kant isna u beddelay qaabkii loo arkayay xiriirka ka dhexeeya maskaxda iyo dunida. Wuxuu ku dooday in maskaxdu aysan ahayn muraayad iska taagan oo si dadban u sawirata dunida dibadda, balse ay tahay “warshad” oo qaabaysa, habaysa, oo macne u yeelaysa waxa kasta oo soo gala.
