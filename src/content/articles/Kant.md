@@ -1,11 +1,11 @@
 ---
 title: "Immanuel Kant iyo Xuduudaha Aqoonta"
-description: "Immanuel Kant iyo Xuduudaha Aqoonta"
-pubDate: 2026-05-08
+description: "new."
+pubDate: 2026-05-05
 author: "Tifaftirayaasha Qudhac Philosophy"
-topic: "summry"
+topic: "Bulsho"
 language: "Somali"
-readingTime: "6 daqiiqo"
+readingTime: "7 daqiiqo"
 ---
 ## Immanuel Kant iyo Xuduudaha Aqoonta
 
